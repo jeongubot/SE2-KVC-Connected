@@ -1,5 +1,3 @@
-"use client";
-
 import { useState, useEffect } from "react";
 import { Pencil, Save, Eye, EyeOff } from "lucide-react";
 import "../css/AccountPage.css";

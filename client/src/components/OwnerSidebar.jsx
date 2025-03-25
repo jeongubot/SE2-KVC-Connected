@@ -1,5 +1,3 @@
-"use client"
-
 import { UserCircle, Folder, PawPrint } from "lucide-react"
 import { Link, useLocation } from "react-router-dom"
 import "../css/Sidebar.css"

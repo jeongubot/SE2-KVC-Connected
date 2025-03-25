@@ -1,5 +1,3 @@
-"use client"
-
 import { useState, useEffect } from "react"
 import { ArrowLeft, Pencil, Save } from "lucide-react"
 import "../css/ViewRecord.css"

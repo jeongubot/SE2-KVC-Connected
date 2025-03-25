@@ -1,5 +1,3 @@
-"use client"
-
 import { useState } from "react"
 import { X, Calendar } from "lucide-react"
 import "../css/FilterModal.css"

@@ -1,5 +1,3 @@
-"use client"
-
 import { useState } from "react"
 import { ArrowLeft } from "lucide-react"
 import "../css/AddRecord.css"
